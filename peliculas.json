@@ -1,0 +1,36 @@
+{
+    "peliculas": [
+      {
+        "id": 1,
+        "nombre": "Gladiador",
+        "director": "Ridley Scott",
+        "clasificacion": "Acción"
+      },
+      {
+        "id": 2,
+        "nombre": "El viaje de Chihiro",
+        "director": "Hayao Miyazaki",
+        "clasificacion": "Animación"
+      },
+      {
+        "id": 3,
+        "nombre": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "clasificacion": "Drama"
+      },
+      {
+        "id": 4,
+        "nombre": "El club de la pelea",
+        "director": "David Fincher",
+        "clasificacion": "Drama"
+      },
+      {
+        "id": 5,
+        "nombre": "Interestelar",
+        "director": "Christopher Nolan",
+        "clasificacion": "Ciencia Ficción"
+      }
+
+    ]
+  }
+  
