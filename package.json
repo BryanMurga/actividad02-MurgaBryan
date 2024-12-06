@@ -10,6 +10,7 @@
   "description": "Segunda actividad PWA",
   "dependencies": {
     "express": "^4.21.0",
+    "pouchdb": "^9.0.0",
     "workbox-webpack-plugin": "^7.1.0"
   },
   "devDependencies": {
